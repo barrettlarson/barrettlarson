@@ -5,7 +5,7 @@ Computer Science student at **Virginia Tech**, currently building full-stack sys
 ---
 
 ### 🔭 What I'm working on
-- **Software Engineering Intern @ Expedition Technology** — building features on both sides of the stack for a storefront platform for buying and selling AI training data, plus a collaborative annotation editor prototype with WebSockets + FastAPI.
+- **Software Engineering Intern @ Expedition Technology** — building features on both ends of the stack for a storefront platform for buying and selling AI training data, plus a collaborative annotation editor prototype with WebSockets + FastAPI.
 
 ### 💼 Recently
 - **Software Developer Intern @ CARFAX** — shipped an AWS Lambda + Salesforce integration service, upgraded microservices to Java 21 / Spring Boot 3.5+, migrated legacy Node.js Lambdas to Python, and automated infra with CloudFormation + GitLab CI.
