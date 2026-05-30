@@ -1,13 +1,11 @@
 # Hi, I'm Barrett 👋
 
-Computer Science student at **Virginia Tech** (Minor in Mathematics, expected May 2027), currently building full-stack and backend systems as a Software Engineering Intern.
-
-I like working close to the data: backend services, real-time features, and clean APIs — with the occasional side project that ships to actual users.
+Computer Science student at **Virginia Tech**, currently building full-stack systems as a Software Engineering Intern.
 
 ---
 
 ### 🔭 What I'm working on
-- **Software Engineering Intern @ Expedition Technology** — building backend and full-stack features for a storefront platform for buying and selling AI training data, plus a collaborative annotation editor prototype with WebSockets + FastAPI.
+- **Software Engineering Intern @ Expedition Technology** — building features on both sides of the stack for a storefront platform for buying and selling AI training data, plus a collaborative annotation editor prototype with WebSockets + FastAPI.
 
 ### 💼 Recently
 - **Software Developer Intern @ CARFAX** — shipped an AWS Lambda + Salesforce integration service, upgraded microservices to Java 21 / Spring Boot 3.5+, migrated legacy Node.js Lambdas to Python, and automated infra with CloudFormation + GitLab CI.
@@ -40,10 +38,6 @@ I like working close to the data: backend services, real-time features, and clea
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 *AWS Certified Cloud Practitioner*
 
