@@ -6,12 +6,12 @@ Computer Science student at **Virginia Tech**, currently building full-stack sys
 
 ### 🔭 What I'm working on
 - **Software Engineering Intern @ Expedition Technology** — building features on both ends of the stack for a storefront platform for buying and selling AI training data, plus a collaborative annotation editor prototype with WebSockets + FastAPI.
+- **HydroScript** — a full-stack pool/spa automation system (Python/FastAPI/React) for a Jandy iAquaLink controller.
 
 ### 💼 Recently
 - **Software Developer Intern @ CARFAX** — shipped an AWS Lambda + Salesforce integration service, upgraded microservices to Java 21 / Spring Boot 3.5+, migrated legacy Node.js Lambdas to Python, and automated infra with CloudFormation + GitLab CI.
 
 ### 🚀 Projects
-- **HydroScript** — a full-stack pool/spa automation system (Python/FastAPI/React) for a Jandy iAquaLink controller.
 - **Fraternity Formals Ticket Platform** — custom ticketing app (MERN + Stripe) that cut third-party fees and saved $1,000+ per event.
 - **Restaurant Management System** — full DBMS GUI (Python/Flask/MySQL/React) with complete CRUD, relational schemas, and role-based auth.
 
