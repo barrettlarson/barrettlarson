@@ -29,11 +29,9 @@ Computer Science student at **Virginia Tech**, currently building full-stack sys
 
 **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Databases & Cloud**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -48,7 +46,3 @@ Computer Science student at **Virginia Tech**, currently building full-stack sys
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Website](https://img.shields.io/badge/Portfolio-barrettlarson.dev-1f6feb?style=flat&logo=googlechrome&logoColor=white)](https://barrettlarson.dev)
 📧 cbarrettl.jr@gmail.com
-
----
-
-> Outside of code: weightlifting, piano, chess, disc golf, and a competitive amount of Catan. 🎲
